@@ -1,2 +1,3 @@
 # html-portfolio
-Meu primeiro portfólio UDEMY 2023
+Activity developed during the Full-Stack Web Development course (Udemy/2023-2024).
+
